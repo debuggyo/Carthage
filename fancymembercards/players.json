@@ -3,11 +3,11 @@
         {
             "name": "Razikof",
             "rank": "God Empress and Founder",
-            "town": "Eastern Headquarters",
+            "town": "Aperture Kernel Driver",
             "discord": "Razikof",
             "nicknames": "Kof",
             "pronouns": "She / Her",
-            "faust": "../images/faust/stalk.png"
+            "faust": "images/faust/stalk.png"
         },
         {
             "name": "Thilman",
@@ -19,12 +19,12 @@
         },
         {
             "name": "debuggyo",
-            "rank": "God Empress and Founder",
-            "town": "Aperture Kernel Driver",
+            "rank": "President",
+            "town": "Faust Industries",
             "discord": "debuggyo",
             "nicknames": "debuggy",
             "pronouns": "He / Him",
-            "faust": "../images/faust/rogue.png"
+            "faust": "images/faust/rogue.png"
         },
         {
             "name": "ovcak5",
